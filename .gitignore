@@ -1,0 +1,6 @@
+app.log
+code.log
+secretefile.sh
+
+*.log 
+####   *.log ka matlab hai ki .log wale sare file ignore ho jayege. 
